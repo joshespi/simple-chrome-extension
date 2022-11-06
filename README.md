@@ -1,11 +1,6 @@
 # simple-chrome-extension
 
 
-
-
-test
-
-
 credits:
 
 guide used
